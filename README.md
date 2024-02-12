@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prathamr01
-- 👀 I’m interested in 3d art, animations and programming
+- 👀 I’m interested in 3d art, animations and game programming
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on (-)
 - 📫 prathamr01 on almost all platforms to reach me
